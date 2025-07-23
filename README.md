@@ -24,7 +24,9 @@ const developer = {
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="40" alt="java logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="40" alt="mysq logo"  />
+  <img width="12" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2bc64fac-ac1d-4d1d-aa44-c22a9ea166f1" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
